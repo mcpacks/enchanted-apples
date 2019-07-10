@@ -1,0 +1,21 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Adds the original recipe for enchanted golden apples",
+        "name": "Golden Apple Recipe",
+        "uuid": "448ec3d6-9102-417a-b85a-578b6e965fda",
+        "version": [1, 0, 0],
+        "min_engine_version": "1.12"
+    },
+    "modules": [
+        {
+            "description": "Adds the original recipe for enchanted golden apples",
+            "type": "data",
+            "uuid": "f1b2974d-ccd3-4eab-a2c4-6e87b34c8666",
+            "version": [0, 0, 1]
+        }
+    ],
+    "metadata": {
+        "url": "https://github.com/mcpacks/enchanted-apples"
+    }
+}
