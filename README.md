@@ -9,8 +9,6 @@ You can view more information about the enchanted golden apple on the [Minecraft
 
 You can download the latest release by heading over to our [releases page][releases-page]. Once it is downloaded,
 launch the file and add it to your world via the behaviour packs section.
-**Note: Adding crafting recipes is an experimental feature, meaning you must also enable experimental
-features on your world.**
 
 
 [bedrock-wiki]: https://minecraft.gamepedia.com/Bedrock_Edition
